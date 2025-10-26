@@ -4,7 +4,7 @@
 
 theme = "blowfish"
 baseURL = "https://ZyYang0124.github.io/themountainblog/"
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-cn"
 
 enableRobotsTXT = true
 
