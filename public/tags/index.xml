@@ -1,40 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Gray Blowfish</title>
-    <link>//localhost:1313/tags/</link>
-    <description>Recent content in Tags on Gray Blowfish</description>
+    <title>Tags on 那山的博客</title>
+    <link>http://localhost:1313/themountainblog/tags/</link>
+    <description>Recent content in Tags on 那山的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2025 Gray Blowfish</copyright>
-    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <copyright>© 2025 那山</copyright>
+    <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/themountainblog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>日常生活</title>
+      <link>http://localhost:1313/themountainblog/tags/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/themountainblog/tags/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Ipsum</title>
-      <link>//localhost:1313/tags/ipsum/</link>
+      <link>http://localhost:1313/themountainblog/tags/ipsum/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/ipsum/</guid>
+      <guid>http://localhost:1313/themountainblog/tags/ipsum/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lorem</title>
-      <link>//localhost:1313/tags/lorem/</link>
+      <link>http://localhost:1313/themountainblog/tags/lorem/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/lorem/</guid>
+      <guid>http://localhost:1313/themountainblog/tags/lorem/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Post</title>
-      <link>//localhost:1313/tags/post/</link>
+      <link>http://localhost:1313/themountainblog/tags/post/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/post/</guid>
+      <guid>http://localhost:1313/themountainblog/tags/post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>日常</title>
+      <link>http://localhost:1313/themountainblog/tags/%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/themountainblog/tags/%E6%97%A5%E5%B8%B8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>生活</title>
+      <link>http://localhost:1313/themountainblog/tags/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/themountainblog/tags/%E7%94%9F%E6%B4%BB/</guid>
       <description></description>
       
     </item>

@@ -11,27 +11,27 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
+  name = "博文"
   pageRef = "posts"
   weight = 10
 
-[[main]]
-  identifier = "web"
-  pre = "link"
-  url = "https://nunocoracao.github.io/blowfish/"
-  weight = 40
+#[[main]]
+#  identifier = "web"
+#  pre = "link"
+#  url = "https://nunocoracao.github.io/blowfish/"
+#  weight = 40
 
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
-  weight = 50
+#[[main]]
+#  identifier = "github"
+#  pre = "github"
+#  url = "https://github.com/nunocoracao/blowfish"
+#  weight = 50
 
-[[main]]
-  identifier = "twitter"
-  pre = "twitter"
-  url = "https://twitter.com/burufugu"
-  weight = 60
+#[[main]]
+#  identifier = "twitter"
+#  pre = "twitter"
+#  url = "https://twitter.com/burufugu"
+#  weight = 60
 
 
 # -- Footer Menu --
@@ -40,6 +40,6 @@
 
 
  [[footer]]
-   name = "Tags"
+   name = "标签"
    pageRef = "tags"
    weight = 10

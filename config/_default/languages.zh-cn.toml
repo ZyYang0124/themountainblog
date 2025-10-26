@@ -1,26 +1,26 @@
 languageCode = "zh-cn"
-languageName = "English"
+languageName = "简体中文"
 weight = 1
-title = "Gray Blowfish"
-contentDir = 'content/en'
+title = "那山的博客"
+contentDir = 'content/zh-cn'
 
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
-  # logo = "img/logo.png"
+  # logo = "img/cat.png"
   description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
   dateFormat = "2 January 2006"
 
 [params.author]
-  name = "Gray Blowfish"
-  image = "img/avatar.png"
-  headline = "This is my very simple profile website with my links"
-  bio = "A little bit about you"
-   links = [
-     { link = "https://nunocoracao.github.io/blowfish/" },
-     { github = "https://github.com/nunocoracao/blowfish" },
-     { x-twitter = "https://twitter.com/burufugu" }
-   ]
+  name = "那山"
+  image = "img/cat.png"
+  headline = "惟江上之清风 与山间之明月"
+  bio = "莫听穿林打叶声"
+#   links = [
+#     { link = "https://nunocoracao.github.io/blowfish/" },
+#     { github = "https://github.com/nunocoracao/blowfish" },
+#     { x-twitter = "https://twitter.com/burufugu" }
+#   ]

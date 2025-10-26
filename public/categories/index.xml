@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Gray Blowfish</title>
-    <link>//localhost:1313/categories/</link>
-    <description>Recent content in Categories on Gray Blowfish</description>
+    <title>Categories on 那山的博客</title>
+    <link>http://localhost:1313/themountainblog/categories/</link>
+    <description>Recent content in Categories on 那山的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2025 Gray Blowfish</copyright>
-    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <copyright>© 2025 那山</copyright>
+    <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/themountainblog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Blog</title>
-      <link>//localhost:1313/categories/blog/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/themountainblog/categories/blog/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/categories/blog/</guid>
+      <guid>http://localhost:1313/themountainblog/categories/blog/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Post</title>
-      <link>//localhost:1313/categories/post/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/themountainblog/categories/post/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/categories/post/</guid>
+      <guid>http://localhost:1313/themountainblog/categories/post/</guid>
       <description></description>
       
     </item>
