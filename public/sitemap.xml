@@ -33,7 +33,37 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/themountainblog/posts/post3/</loc>
+    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/themountainblog/posts/post-lite-one/</loc>
+    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/themountainblog/tags/%E5%85%B1%E7%BA%BF%E6%80%A7/</loc>
+    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/themountainblog/tags/%E5%8C%96%E5%AD%A6/</loc>
+    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/themountainblog/tags/%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</loc>
+    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/themountainblog/tags/%E5%9F%BA%E5%9B%A0%E7%BB%84/</loc>
     <lastmod>2025-10-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -45,50 +75,38 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/themountainblog/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/themountainblog/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/themountainblog/tags/ipsum/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/themountainblog/tags/lorem/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/themountainblog/tags/post/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/themountainblog/posts/post-lite-three/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/themountainblog/posts/post-lite-two/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/themountainblog/posts/post-lite-four/</loc>
-    <lastmod>2021-09-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/themountainblog/tags/%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/themountainblog/tags/%E7%94%9F%E7%89%A9/</loc>
+    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/themountainblog/tags/%E7%94%9F%E7%89%A9%E4%BD%93/</loc>
+    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/themountainblog/tags/%E7%94%9F%E4%BF%A1/</loc>
+    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/themountainblog/tags/%E7%89%A9%E7%90%86/</loc>
+    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

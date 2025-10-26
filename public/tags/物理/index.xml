@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>物理 on 那山的博客</title>
+    <link>http://localhost:1313/themountainblog/tags/%E7%89%A9%E7%90%86/</link>
+    <description>Recent content in 物理 on 那山的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 那山</copyright>
+    <lastBuildDate>Sun, 26 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/themountainblog/tags/%E7%89%A9%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>从基本粒子到生命体</title>
+      <link>http://localhost:1313/themountainblog/posts/post3/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/themountainblog/posts/post3/</guid>
+      <description>最近在上现代分子生物学的课程中，我发现很多初高中时代的物理学、化学和生物学概念已经被忘记得差不多了。于是我让 deepseek 和 qianwen 两位老师总结了一些这方面的知识，助我温故知新。</description>
+      
+    </item>
+    
+  </channel>
+</rss>
