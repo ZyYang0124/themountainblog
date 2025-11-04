@@ -5,7 +5,7 @@ categories: ["Post","Blog",]
 tags: ["生物学","基因组","比较基因组","CAFE","基因家族"]
 #externalUrl: ""
 #showSummary: true
-date: 2025-11-4
+date: 2025-11-04
 draft: false
 ---
 
