@@ -104,11 +104,11 @@ CAFE5的运行命令如下：
 
     sed -E 's/(<[0-9]+>)[^:,;)]+/\1/g' id_tree.txt > cleaned_tree.txt
 
-运行脚本 `sig0.05_change_mapping_to_tree.py` 
+运行脚本 `sig0.05_change_map_to_tree.py` 
 - 从 Gamma_family_results.txt 读入显著家族只保留 "y" 的基因家族；
 - 从 Gamma_change.tab 选取显著家族对应的行；
 - 每个节点分别统计：所有显著家族的扩张数，所有显著家族的收缩数；
-- 最后将其 map 到树上：写入 cleaned_tree_sig_only.txt
+- 最后将其 map 到树上：写入 cleaned_tree_sig0.05_only.txt
 ---
     #sig0.05_change_map_to_tree.py
     #!/usr/bin/env python3
@@ -190,7 +190,7 @@ CAFE5的运行命令如下：
 - 以 Gamma_family_results.txt 里显著家族为准，从 Gamma_change.tab 中去掉不显著家族；
 - 输出一个新的 Gamma_change_sig0.05.tsv。
 ---
-    #sig_change_tsv.py
+    #sig0.05_change_tsv.py
     #!/usr/bin/env python3
     import pandas as pd
 
